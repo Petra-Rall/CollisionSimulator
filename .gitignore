@@ -1,0 +1,6 @@
+# Ignore object files and build output
+*.o
+*.obj
+*.exe
+*.out
+:
